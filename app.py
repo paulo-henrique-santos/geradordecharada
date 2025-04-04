@@ -9,6 +9,8 @@ import json
 app = Flask(__name__)
 CORS(app)
 
+load_dotenv()
+
 # Pega a variável de ambiente e converte para JSON
 FBKEY = json.loads(os.getenv('CONFIG_FIREBASE'))
 
