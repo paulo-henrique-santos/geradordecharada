@@ -8,6 +8,7 @@ O site "Charada do Dia" foi criado para testar a minha habilidade de criar uma A
 * [Autores](#autores)
 * [Status](#status)
 * [Licença](#licença)
+* [outros](#outros)
 ## Funcionalidades
  - Sistema de verificador de resposta
  - Botão de pegar uma nova charada
@@ -25,3 +26,7 @@ O site "Charada do Dia" foi criado para testar a minha habilidade de criar uma A
 🚀 Projeto Lançado 🚀
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+## Outros
+Veja o FrontEnd desse projeto!
+https://github.com/paulo-henrique-santos/front-end-charada.git
