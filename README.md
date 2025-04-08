@@ -8,7 +8,7 @@ O site "Charada do Dia" foi criado para testar a minha habilidade de criar uma A
 * [Autores](#autores)
 * [Status](#status)
 * [Licença](#licença)
-* [outros](#outros)
+* [Outros](#outros)
 ## Funcionalidades
  - Sistema de verificador de resposta
  - Botão de pegar uma nova charada
