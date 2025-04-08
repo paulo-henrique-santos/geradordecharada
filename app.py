@@ -104,7 +104,7 @@ def excluir_charada(id):
         return jsonify({'mensagem': '⛔ Erro! Charada não encontrada ⛔'}), 404
     
     doc_ref.delete()
-    return jsonify({'mensagem': '⛔ Erro! Charada excluída com sucesso 😞'}), 200
+    return jsonify({'mensagem': '✅ Charada excluída com sucesso 😞'}), 200
 
 # --- MÉTODO GET - LISTAR CHARADAS ---
 @app.route('/charada/lista', methods=['GET'])
